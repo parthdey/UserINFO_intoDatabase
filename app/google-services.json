@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165532045435",
+    "project_id": "day-16-database-1c878",
+    "storage_bucket": "day-16-database-1c878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165532045435:android:f4f4274c222ecd0e04d2de",
+        "android_client_info": {
+          "package_name": "com.example.day_16database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUIu62ekPNLtaDUze8-fLyTZkfcv1UM_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
